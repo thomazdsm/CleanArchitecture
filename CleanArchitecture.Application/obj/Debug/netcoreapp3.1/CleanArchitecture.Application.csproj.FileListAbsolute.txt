@@ -1,0 +1,13 @@
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.deps.json
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.AssemblyInfo.cs
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.csproj.CopyComplete
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.dll
+D:\VisualStudioRepos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp3.1\CleanArchitecture.Application.pdb
