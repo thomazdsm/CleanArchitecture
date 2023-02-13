@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CleanArchitecture.WebUI.props" />
-</Project>
